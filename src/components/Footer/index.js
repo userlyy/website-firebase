@@ -3,7 +3,7 @@ import "./styles.scss";
 
 function Footer(props) {
   return (
-    <footer className="footer">
+    <footer className="classfooter">
       <div className="wrapFoo">
         <div className="copy">
           <div>© BlockForFun 2020</div>

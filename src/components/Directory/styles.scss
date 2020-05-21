@@ -31,7 +31,7 @@
         top: 50%;
         left: 50%;
         z-index: 2;
-        background: black;
+        background: rgb(21, 93, 151);
         -webkit-transform: translateY(-50%, -50%);
         -moz-transform: translateY(-50%, -50%);
         transform: translateY(-50%, -50%);
@@ -44,7 +44,7 @@
         color: white;
 
         &:hover {
-          background: rgb(21, 93, 151);
+          background: rgb(27, 180, 35);
         }
       }
     }
